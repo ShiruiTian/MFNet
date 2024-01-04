@@ -1,4 +1,4 @@
-# MF_Net
+# MFNet
 All the codes are tested in the following environment:
 
 Linux 
